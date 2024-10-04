@@ -55,3 +55,7 @@ Throughout this project, I gained hands-on experience with:
 ## Credits
 
 This project was created as part of the React Essentials course by Maximilian Schwarzmüller.
+
+## Live Demo
+
+You can view the live demo of this project here: Live Server Demo
