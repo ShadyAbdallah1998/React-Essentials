@@ -58,4 +58,5 @@ This project was created as part of the React Essentials course by Maximilian Sc
 
 ## Live Demo
 
-You can view the live demo of this project here: Live Server Demo
+You can view the live demo of this project here: [Live server Demo](https://react-essentials-taupe.vercel.app/)
+
